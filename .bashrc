@@ -10,6 +10,7 @@ alias la='ls -A'
 alias c='clear'
 alias h='history'
 
+alias op='termux-open'
 alias btw='echo i use termux btw'
 
 export EDITOR=vim

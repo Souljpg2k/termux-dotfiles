@@ -13,5 +13,7 @@ alias h='history'
 alias op='termux-open'
 alias btw='echo i use termux btw'
 
+alias dots='cd $HOME/termux-dotfiles'
+
 export EDITOR=vim
 export VISUAL=vim
